@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/ubiquitousdrop/github-final-project/refs/heads/main/README.md
+https://raw.githubusercontent.com/ubiquitousdrop/github-final-project/refs/heads/main/LICENSE
