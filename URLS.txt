@@ -2,3 +2,4 @@ https://raw.githubusercontent.com/ubiquitousdrop/github-final-project/refs/heads
 https://raw.githubusercontent.com/ubiquitousdrop/github-final-project/refs/heads/main/LICENSE
 https://raw.githubusercontent.com/ubiquitousdrop/github-final-project/refs/heads/main/CODE_OF_CONDUCT.md
 https://raw.githubusercontent.com/ubiquitousdrop/github-final-project/refs/heads/main/CONTRIBUTING.md
+https://raw.githubusercontent.com/ubiquitousdrop/github-final-project/refs/heads/main/simple-interest.sh
